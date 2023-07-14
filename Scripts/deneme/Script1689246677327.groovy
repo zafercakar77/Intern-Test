@@ -23,3 +23,5 @@ WebUI.click(findTestObject(null))
 
 WebUI.closeBrowser()
 
+WebUI.acceptAlert()
+
